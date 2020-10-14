@@ -1,4 +1,4 @@
-# delite_restaurant
+# Delite Restaurant
 
 A new Flutter project.
 
